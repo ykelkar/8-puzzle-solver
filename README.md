@@ -9,8 +9,8 @@ Use 3 different algorithms to solve 8-Puzzle problem:
 
 ## Usage
 * Compile main.cpp file
-* Enter (1) default puzzle or (2) to enter your own puzzle
-* Enter your choice of algorithm (1) Uniform Cost (2) A* w/ Misplaced Tile (3) A* w/ Manhattan Distance
+* Enter 1) default puzzle or 2) to enter your own puzzle
+* Enter your choice of algorithm 1) Uniform Cost 2) A* w/ Misplaced Tile 3) A* w/ Manhattan Distance
 
 ### Example
 Trace of the Manhattan distance A* on the following problem: 
