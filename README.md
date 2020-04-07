@@ -4,6 +4,15 @@ Use 3 different algorithms to solve 8-Puzzle problem:
 2. A* with Misplaced Tile heuristic
 3. A* with Manhattan Distance heuristic
 
+## What I Learned
+* Implemented 1) Uniform Cost Search 2) A* with Misplaced Tile heuristic 3) A* with Manhattan Distance heuristic
+
+## Usage
+* Compile main.cpp file
+* Enter (1) default puzzle or (2) to enter your own puzzle
+* Enter your choice of algorithm (1) Uniform Cost (2) A* w/ Misplaced Tile (3) A* w/ Manhattan Distance
+
+### Example
 Trace of the Manhattan distance A* on the following problem: 
 
 1 2 3
