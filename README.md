@@ -1,3 +1,4 @@
+# 8-Puzzle Solver
 Use 3 different algorithms to solve 8-Puzzle problem:
 1. Uniform Cost Search
 2. A* with Misplaced Tile heuristic
